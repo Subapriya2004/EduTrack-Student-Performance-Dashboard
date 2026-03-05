@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/EduTrack-Student-Performance-Dashboard/static/css/main.25229568.css",
-    "main.js": "/EduTrack-Student-Performance-Dashboard/static/js/main.bac3931e.js",
+    "main.js": "/EduTrack-Student-Performance-Dashboard/static/js/main.89f38451.js",
     "index.html": "/EduTrack-Student-Performance-Dashboard/index.html",
     "main.25229568.css.map": "/EduTrack-Student-Performance-Dashboard/static/css/main.25229568.css.map",
-    "main.bac3931e.js.map": "/EduTrack-Student-Performance-Dashboard/static/js/main.bac3931e.js.map"
+    "main.89f38451.js.map": "/EduTrack-Student-Performance-Dashboard/static/js/main.89f38451.js.map"
   },
   "entrypoints": [
     "static/css/main.25229568.css",
-    "static/js/main.bac3931e.js"
+    "static/js/main.89f38451.js"
   ]
 }
