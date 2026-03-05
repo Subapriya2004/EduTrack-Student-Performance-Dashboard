@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EduTrack-Student-Performance-Dashboard/static/css/main.25229568.css",
+    "main.js": "/EduTrack-Student-Performance-Dashboard/static/js/main.792966e0.js",
+    "index.html": "/EduTrack-Student-Performance-Dashboard/index.html",
+    "main.25229568.css.map": "/EduTrack-Student-Performance-Dashboard/static/css/main.25229568.css.map",
+    "main.792966e0.js.map": "/EduTrack-Student-Performance-Dashboard/static/js/main.792966e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25229568.css",
+    "static/js/main.792966e0.js"
+  ]
+}
